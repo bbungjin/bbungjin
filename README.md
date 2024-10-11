@@ -16,5 +16,4 @@
 </br>
 <div align=center>
 <a herf="#"><img src="https://github-readme-stats.vercel.app/api?username=bbungjin&theme=shadow_blue&show_icons=true"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbungjin&layout=donut">
 </div>
