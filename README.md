@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=ffc0cb&text=Kim%20Hyeonjeong&textBg=false&fontAlign=50&descAlign=60&strokeWidth=0&rotate=0&animation=fadeIn&section=header&reversal=false">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=ffc0cb&text=Lee%20Seung[…]&rotate=0&animation=fadeIn&section=header&reversal=false">
 </div>
 
 </br>
@@ -15,5 +15,5 @@
 </br>
 </br>
 <div align=center>
-<a herf="#"><img src="https://github-readme-stats.vercel.app/api?username=hyeonjeong9911&theme=shadow_blue&show_icons=true"></a>
+<a herf="#"><img src="https://github-readme-stats.vercel.app/api?username=bbungjin&theme=shadow_blue&show_icons=true"></a>
 </div>
